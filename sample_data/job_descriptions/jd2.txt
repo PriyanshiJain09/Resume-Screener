@@ -1,0 +1,23 @@
+We are looking for a Data Scientist with strong experience in data analysis, statistical modeling, and machine learning to derive insights from large datasets.
+
+Requirements:
+
+Proficiency in Python, NumPy, and Pandas
+
+Experience with machine learning algorithms such as linear regression, decision trees, and random forests
+
+Knowledge of data visualization tools like Matplotlib or Seaborn
+
+Familiarity with SQL and data preprocessing techniques
+
+Strong understanding of statistics and probability
+
+Preferred Skills:
+
+Experience with NLP or deep learning frameworks
+
+Knowledge of cloud-based data tools
+
+Experience deploying ML models
+
+Strong communication skills

@@ -1,0 +1,23 @@
+We are seeking a Machine Learning Engineer to build, optimize, and deploy machine learning models into production systems.
+
+Requirements:
+
+Strong programming skills in Python
+
+Experience with ML frameworks such as TensorFlow, PyTorch, or Scikit-learn
+
+Knowledge of model evaluation, feature engineering, and hyperparameter tuning
+
+Experience working with large datasets
+
+Familiarity with data pipelines and ETL processes
+
+Preferred Skills:
+
+Experience with MLOps tools
+
+Knowledge of Docker and Kubernetes
+
+Familiarity with cloud platforms (AWS, Azure, GCP)
+
+Experience with NLP or computer vision

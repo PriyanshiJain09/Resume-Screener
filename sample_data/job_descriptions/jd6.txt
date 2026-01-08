@@ -1,0 +1,23 @@
+We are looking for a Quantitative Analyst to develop mathematical and statistical models for financial analysis and trading strategies.
+
+Requirements:
+
+Strong background in mathematics, statistics, or engineering
+
+Proficiency in Python, R, or MATLAB
+
+Knowledge of probability theory and statistical modeling
+
+Experience with time series analysis
+
+Understanding of financial instruments and markets
+
+Preferred Skills:
+
+Experience with machine learning techniques
+
+Knowledge of derivatives and risk modeling
+
+Familiarity with large-scale data analysis
+
+Strong problem-solving skills

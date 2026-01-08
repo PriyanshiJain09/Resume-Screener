@@ -1,0 +1,23 @@
+We are looking for a Backend Software Engineer to design, develop, and maintain scalable server-side applications using Python.
+
+Requirements:
+
+Strong proficiency in Python
+
+Experience with RESTful APIs and backend frameworks (FastAPI, Flask, or Django)
+
+Knowledge of data structures, algorithms, and OOP concepts
+
+Familiarity with SQL databases (PostgreSQL, MySQL)
+
+Experience with version control tools like Git
+
+Preferred Skills:
+
+Experience with microservices architecture
+
+Familiarity with Docker and CI/CD pipelines
+
+Knowledge of cloud platforms such as AWS or GCP
+
+Good debugging and problem-solving skills

@@ -1,0 +1,23 @@
+We are looking for a Data Analyst to analyze business data, create dashboards, and generate actionable insights for decision-making.
+
+Requirements:
+
+Strong SQL skills
+
+Experience with Excel and data analysis techniques
+
+Proficiency in Python or R for data analysis
+
+Knowledge of data visualization tools (Tableau, Power BI, or Matplotlib)
+
+Ability to interpret trends and patterns in data
+
+Preferred Skills:
+
+Experience with statistical analysis
+
+Familiarity with business intelligence tools
+
+Strong presentation and communication skills
+
+Experience working with large datasetss

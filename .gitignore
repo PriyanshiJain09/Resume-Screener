@@ -5,9 +5,17 @@ venv/
 __pycache__/
 *.pyc
 
-# Debug / local outputs
+# Django
+db.sqlite3
+*.log
+
+# Generated outputs
 debug_output/
 structured_output/
 
+# VS Code
+.vscode/
+
 # OS files
 .DS_Store
+Thumbs.db
